@@ -13,7 +13,7 @@ Diseñar un controlador que permita formular un protocolo de tratamiento para qu
 3. Determinar el error en estado estacionario y la estabilidad del sistema en lazo abierto
 4. Construir el diagrama de bloques como se indica 
 5. Diseñar el controlador con simulink utilizando el bloque PID Controller y la herramienta "Tune" para sintonizar los valores optimos para cada una de las ganancias Kp,Ki,Kp
-6.Ilustrar el cambio de flujo de aire y el volumen tidal en respuesta a las siguientes formas de onda de presion en la apertura de la via aérea [Pao(t)]
+6. 6.Ilustrar el cambio de flujo de aire y el volumen tidal en respuesta a las siguientes formas de onda de presion en la apertura de la via aérea [Pao(t)]
 7.Determinar la respuesta a la funcion sinusoidal [u(t) = Asinwt] en el intervalo [0.30] (segundos) en Python, Simulink y Multisim en lazo abierto y lazo cerrado
 8.Elaborar el diagrama biologico del sistema con Biorender.com
 9.Discturi los resultados obtenidos en la experimentacion in silico y elaborar el reporte de la practica
